@@ -1,11 +1,4 @@
-# Project Title
-
-## Table of Contents
-
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
+# Django Poll App for The City Tutors
 
 ## About <a name = "about"></a>
 
