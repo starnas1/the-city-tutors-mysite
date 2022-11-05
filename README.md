@@ -1,4 +1,4 @@
-# Django Poll App for The City Tutors
+# Django Poll App
 
 ## About <a name = "about"></a>
 
